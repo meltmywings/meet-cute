@@ -1,0 +1,21 @@
+{
+    "short_name": "Meet Cute",  
+    "name": "Meet Cute Dating App", 
+    "description": "A dating app to connect with new people.", 
+    "icons": [
+      {
+        "src": "/pixel_studio_20250219_77082532.jpg", 
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/pixel_studio_20250219_77082532.jpg", 
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/", 
+    "display": "fullscreen", 
+    "background_color": "#0a0a0a", 
+    "theme_color": "#0a0a0a" 
+  }
